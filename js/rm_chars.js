@@ -27,7 +27,7 @@ function array(string) {
     return lst.join(" ")
 }
 
-# el mejor
+// el mejor
 function array(arr){
     return arr.split(",").slice(1,-1).join(" ") || null;
   }
